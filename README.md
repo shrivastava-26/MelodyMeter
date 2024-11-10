@@ -4,7 +4,7 @@ The **Counter Web App** is a simple and interactive web application built using 
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Counter Web App [here](https://melody-meter.vercel.app/).
+Check out the live demo of the Counter Web App [here](https://melody-meter.vercel.app/)
 
 ## 📸 Screenshots
 
